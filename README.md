@@ -18,4 +18,4 @@ Lo script è in R
 
 
 
-La presentazione è PDF- creata con Power Point
+La presentazione è in PDF- creata con Power Point
