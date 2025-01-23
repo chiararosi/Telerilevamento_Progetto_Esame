@@ -1,5 +1,5 @@
 # Telerilevamento_Progetto_Esame
-Progetto di Telerilevamento sul territorio del comune di Alfosine, provincia di Ravenna, in cui nel maggio del 2023 la zona risultò completamente allagata dopo l'alluvione.
+Progetto di Telerilevamento sul territorio del comune di Alfonsine, provincia di Ravenna, in cui nel maggio del 2023 la zona risultò completamente allagata dopo l'alluvione.
 
 
 Sono andata ad analizzare l'area partendo dall'anno 2020, per poi successivamente studiare il 2021-2022-2023 e per finire il 2024
