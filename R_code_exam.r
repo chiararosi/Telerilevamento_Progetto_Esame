@@ -415,7 +415,7 @@ dev.off()
 
 #multiframe
 par(mfrow= c(1,5))
-plot(TRUECOL_2020=
+plot(TRUECOL_2020)
 plot(TRUECOL_2021)
 plot(TRUECOL_2022)
 plot(TRUECOL_2023)
